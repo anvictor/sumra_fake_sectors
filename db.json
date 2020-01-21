@@ -1,60 +1,39 @@
 { 
-    "sectors":[ 
-       { 
-          "id":"0",
-          "name":"Account Management"
-       },
-       { 
-          "id":"1",
-          "name":"Accountancy"
-       },
-       { 
-          "id":"2",
-          "name":"Administration"
-       },
-       { 
-          "id":"3",
-          "name":"Construction"
-       },
-       { 
-          "id":"4",
-          "name":"Consulting"
-       },
-       { 
-          "id":"5",
-          "name":"Creative Media & Design"
-       },
-       { 
-          "id":"6",
-          "name":"Customer Service"
-       },
-       { 
-          "id":"7",
-          "name":"Education"
-       },
-       { 
-          "id":"8",
-          "name":"Engineering"
-       },
-       { 
-          "id":"9",
-          "name":"Financial Services"
-       },
-       { 
-          "id":"10",
-          "name":"General Jobs"
-       },
-       { 
-          "id":"11",
-          "name":"Health & Medicine"
-       },
-       { 
-          "id":"12",
-          "name":"Hospitality"
-       },
-       { 
-          "id":"13",
-          "name":"Human Resources"
-       }
-    ]
- }
+   "sectors":[ 
+      { 
+         "id":"0",
+         "name":"Account Management",
+          "roles":["Account Executive","Account Handler","Account Manager","Client Accounts Manager","Cost Manager","Education Account Manager","Global Account Manager","Graduate Account Manager"]
+      },
+      { 
+         "id":"1",
+         "name":"Accountancy",
+          "roles":["Accounts Administrator","Accounts Assistant","Accounts Clerk","Accounts Manager","Accounts Payable","Assistant Management Accountant","AuditBookkeeper","Commercial Director","Credit Analyst","Credit Control","Dealership Accountant","Financial Accountant","Financial Controller","Junior Management Accountant","Management Accountant","Part-Qualified Accountant","Payroll","Practice Accountant","Pricing Analyst","Purchase Ledger Clerk","Sales Ledger","Tax Accounting","Trainee Accountant"]
+      },
+      { 
+         "id":"2",
+         "name":"Administration",
+          "roles":["Admin Assistant","Administration Assistant","Administrator","Business Support Officer","Contracts Officer","Data Entry","Document Controller","Executive Assistant","Executive PA","Executive Personal Assistant","Medical Administration","Minute Taker","Office","Personal Assistant","Post Room","Receptionist","Sales Administrator","Scheduler","School Administration","Secretary","Service Coordinator","Sports Administration","Team Secretary","Typist"]
+      },
+      { 
+         "id":"3",
+         "name":"Construction",
+          "roles":["Architecture","BIM","Builder","Building Services","Commercial Manager","Construction Health & Safety","Construction Planning","Construction Project Manager","Construction Site","Contractor","CPCS","CSCS","Demolition","Ductwork","Estimator","Facilities Management","Highways & Transportation","HVAC","Labouring","Maintenance","Property Management","Revit","Surveying","Trades"]
+      },
+      { 
+         "id":"4",
+         "name":"Consulting",
+          "roles":["Analyst","Bids & Tenders","Business Advisor","Business Consultant","Change Management","Commercial Analyst","Compliance Consultant","Continuous Improvement","Public Relations Specialist","Research Analyst","Security Analyst","Sustainability Consultant"]
+      },
+      { 
+         "id":"5",
+         "name":"Creative Media & Design",
+          "roles":["Artwork","Audio Visual","Content","Copywriter","Creative","Design Manager","Design Studio Manager","Digital Media","Digital Print","Editorial","Events Technician","Graphic Design","Head of Design","Head of Digital","Interior Design","Music Industry","Packaging Designer","Performing Arts","Print Room","Product Design","Project Manager","Publishing","Reprographics","Textile Design"]
+      },
+      { 
+         "id":"6",
+         "name":"Customer Service",
+          "roles":["Account Coordinator","Call Centre Agent","Client Manager","Client Services Manager","Complaints Handler","CRM/Customer Relationship Manager","Customer Champion","Customer Contact Agent","Customer Service Administrator","Customer Service Adviser","Customer Service Advisor","Customer Service Agent","Customer Service Assistant","Customer Service Associate","Customer Service Coordinator","Customer Service Executive","Customer Service Manager","Customer Service Officer","Customer Service Part Time","Customer Service Professional","Customer Service Representative","Customer Service Team Leader","Customer Support","Relationship Manager"]
+      }
+   ]
+}
