@@ -1,0 +1,60 @@
+{ 
+    "sectors":[ 
+       { 
+          "id":"0",
+          "name":"Account Management"
+       },
+       { 
+          "id":"1",
+          "name":"Accountancy"
+       },
+       { 
+          "id":"2",
+          "name":"Administration"
+       },
+       { 
+          "id":"3",
+          "name":"Construction"
+       },
+       { 
+          "id":"4",
+          "name":"Consulting"
+       },
+       { 
+          "id":"5",
+          "name":"Creative Media &amp; Design"
+       },
+       { 
+          "id":"6",
+          "name":"Customer Service"
+       },
+       { 
+          "id":"7",
+          "name":"Education"
+       },
+       { 
+          "id":"8",
+          "name":"Engineering"
+       },
+       { 
+          "id":"9",
+          "name":"Financial Services"
+       },
+       { 
+          "id":"10",
+          "name":"General Jobs"
+       },
+       { 
+          "id":"11",
+          "name":"Health &amp; Medicine"
+       },
+       { 
+          "id":"12",
+          "name":"Hospitality"
+       },
+       { 
+          "id":"13",
+          "name":"Human Resources"
+       }
+    ]
+ }
